@@ -1,13 +1,4 @@
-<!-- Neovim Icon -->
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/neovim.svg" width="50" height="50" />
-
-<!-- LinkedIn Icon -->
-<a href="https://www.linkedin.com/in/your-profile/">
-  <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/linkedin.svg" width="50" height="50" />
-</a>
-
-<!-- Gatsby Icon -->
-<img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/gatsby.svg" width="50" height="50" />
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
