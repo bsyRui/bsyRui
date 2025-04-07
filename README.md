@@ -1,6 +1,6 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram,gmail,r&perline=6)](https://skillicons.dev)
 
-
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="https://upload.wikimedia.org/wikipedia/commons/3/33/HolyC_Logo.svg">
 <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
 
 ![repo stat](https://github-readme-stats.vercel.app/api?username=bsyRui&theme=dark&show_icons=true&count_private=true&count_private=true&border_color=000000&bg_color=101010)
