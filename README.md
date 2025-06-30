@@ -7,8 +7,5 @@
 
 <!-- GitHub Stats -->
 ![Repo Stats](https://github-readme-stats.vercel.app/api?username=bsyRui&theme=dark&show_icons=true&count_private=true&border_color=000000&bg_color=101010)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bsyRui/bsyRui/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bsyRui/bsyRui/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://raw.githubusercontent.com/bsyRui/bsyRui/output/github-contribution-grid-snake.svg)
 
